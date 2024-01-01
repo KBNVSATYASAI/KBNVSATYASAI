@@ -2,9 +2,7 @@
 - 👋 Hi, I’m @KBNVSATYASAI<br>- 👀 I’m interested in software field...<br>- 🌱 I’m currently  pursuing my dream course CSE at KLUniversity ...<br>- 💞️ I’m looking to collaborate on ...
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/K.B.N.V.SATYA SAI) 
-
+ 
  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KBNVSATYASAI&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
